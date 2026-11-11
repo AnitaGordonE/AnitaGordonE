@@ -42,7 +42,7 @@ Here are some areas I'm documenting and developing:
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Insert your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/anita-gordonejiro
 - Location: Lagos, Nigeria
 
 I'm always interested in learning, collaborating, and contributing to meaningful projects.
