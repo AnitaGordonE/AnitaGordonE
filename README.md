@@ -44,6 +44,7 @@ Here are some areas I'm documenting and developing:
 
 - LinkedIn: www.linkedin.com/in/anita-gordonejiro
 - Location: Lagos, Nigeria
+- Available: Remote (GMT +1)
 
 I'm always interested in learning, collaborating, and contributing to meaningful projects.
 
